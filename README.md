@@ -1,7 +1,5 @@
-flyerhzm.github.com
-===================
-
-my blog <http://huangzhimin.com>
+blog.huangzhimin.com
+====================
 
 Usage
 -----
