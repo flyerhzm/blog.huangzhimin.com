@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade to capistrano3
-categories:
+tags:
 - capistrano
 ---
 

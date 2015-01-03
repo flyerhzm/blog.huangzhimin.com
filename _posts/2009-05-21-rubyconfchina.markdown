@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rubyconfchina
-categories:
+tags:
 - presentation
 ---
 第一次参加这类活动，ruby之父matz先生的出席，受到了所有关心ruby和rails的开发程序员的追捧。

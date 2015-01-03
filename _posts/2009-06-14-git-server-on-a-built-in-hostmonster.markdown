@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在hostmonster上搭建git server
-categories:
+tags:
 - hostmonster
 - rails
 - git

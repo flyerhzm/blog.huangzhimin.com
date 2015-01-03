@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Restful Authentication
-categories:
+tags:
 - rails plugins
 ---
 Restful Authentication提供了基于Restful形式的身份认证功能，包括email激活，登陆跳转等等功能。

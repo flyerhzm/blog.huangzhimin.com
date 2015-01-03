@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rspec测试render :nothing => true
-categories:
+tags:
 - rails
 - rspec
 ---

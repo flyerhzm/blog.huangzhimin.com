@@ -1,7 +1,7 @@
 ---
 layout: post
 title: another zero downtime deployment solution
-categories:
+tags:
 - deployment
 ---
 I wrote [a post][0] for jruby migration 2 monthes ago, it mentioned a

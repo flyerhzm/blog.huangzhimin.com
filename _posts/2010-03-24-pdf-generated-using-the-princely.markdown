@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用princely生成pdf
-categories:
+tags:
 - rails
 - ruby
 ---

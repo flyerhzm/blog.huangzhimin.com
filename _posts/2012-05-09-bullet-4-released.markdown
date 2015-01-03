@@ -1,7 +1,7 @@
 ---
 layout: post
 title: bullet 4.0.0 released
-categories:
+tags:
 - rails
 - bullet
 ---

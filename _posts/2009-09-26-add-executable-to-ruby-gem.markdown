@@ -1,7 +1,7 @@
 ---
 layout: post
 title: add executable to ruby gem
-categories:
+tags:
 - rubygems
 - ruby
 ---

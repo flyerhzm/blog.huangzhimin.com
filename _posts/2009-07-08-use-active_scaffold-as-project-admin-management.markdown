@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用active_scaffold做为项目的后台管理
-categories:
+tags:
 - rails
 - rails plugins
 ---

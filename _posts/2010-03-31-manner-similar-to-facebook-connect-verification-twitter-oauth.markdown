@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 类似facebook connect的方式验证twitter oauth
-categories:
+tags:
 - rails
 - twitter
 - javascript

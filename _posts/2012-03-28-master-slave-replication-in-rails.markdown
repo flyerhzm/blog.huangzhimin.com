@@ -1,7 +1,7 @@
 ---
 layout: post
 title: master slave replication in rails
-categories:
+tags:
 - rails
 - mysql
 ---

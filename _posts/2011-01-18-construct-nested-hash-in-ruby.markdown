@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Construct Nested Hash in Ruby
-categories:
+tags:
 - ruby
 ---
 I just received a post request on rails-bestpractices.com from hlxwell, he recommend "Nested hash simple initialization."

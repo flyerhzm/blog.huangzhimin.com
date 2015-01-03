@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 麦兜响当当
-categories:
+tags:
 - life
 ---
 麦兜，感觉像是一个个笑料的集合，但是结局太仓促了点。

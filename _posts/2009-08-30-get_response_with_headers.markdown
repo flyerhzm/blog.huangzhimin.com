@@ -1,7 +1,7 @@
 ---
 layout: post
 title: get_response_with_headers
-categories:
+tags:
 - ruby
 - rspec
 - http

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: flex的调试日志
-categories:
+tags:
 - flex
 ---
 Flash的debug是个头疼的问题，最好的方法是使用flash的logging来做日志调试。

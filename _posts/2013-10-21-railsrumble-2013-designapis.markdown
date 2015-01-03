@@ -1,7 +1,7 @@
 ---
 layout: post
 title: railsrumble 2013 - designapis
-categories:
+tags:
 - railsrumble
 ---
 

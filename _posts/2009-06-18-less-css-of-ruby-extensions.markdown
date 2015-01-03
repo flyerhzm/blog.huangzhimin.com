@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Less -- Css的Ruby扩展
-categories:
+tags:
 - ruby
 - css
 - less

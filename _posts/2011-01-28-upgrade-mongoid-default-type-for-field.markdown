@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Mongoid - Default Type for Field
-categories:
+tags:
 - mongoid
 - ruby
 ---

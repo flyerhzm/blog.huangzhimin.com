@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java连接LDAP服务器
-categories:
+tags:
 - java
 - ldap
 ---

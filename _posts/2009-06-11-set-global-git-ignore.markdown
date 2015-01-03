@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 设置git全局忽略的文件
-categories:
+tags:
 - git
 - vim
 ---

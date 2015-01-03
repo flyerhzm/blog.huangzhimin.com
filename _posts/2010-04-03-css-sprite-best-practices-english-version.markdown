@@ -1,7 +1,7 @@
 ---
 layout: post
 title: css sprite best practices
-categories:
+tags:
 - rails
 - css
 - rubygems

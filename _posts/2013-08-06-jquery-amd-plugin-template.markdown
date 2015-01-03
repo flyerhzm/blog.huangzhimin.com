@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JQuery AMD Plugin Template
-categories:
+tags:
 - jquery
 ---
 Several years ago I posted how to write a [jquery plugin

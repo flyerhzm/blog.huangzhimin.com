@@ -1,7 +1,7 @@
 ---
 layout: post
 title: jruby-memcached 0.5.0 released
-categories:
+tags:
 - jruby
 - memcached
 ---

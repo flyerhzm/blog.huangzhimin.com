@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kungfu Rails Conf
-categories:
+tags:
 - presentation
 ---
 昨天Kungfu Rails会议还是收获很大的

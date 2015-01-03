@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 页面定时跳转
-categories:
+tags:
 - html
 ---
 页面定时跳转是指一个页面在显示了一定的时间之后自动跳转到另外一个页面，实现起来非常容易：

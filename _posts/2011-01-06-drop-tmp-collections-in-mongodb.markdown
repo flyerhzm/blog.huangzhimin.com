@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drop tmp collections in Mongodb
-categories:
+tags:
 - mongodb
 ---
 I'm trying mongodb map/reduce functionality with mongoid these days. I find there is a `tmp.mr.mapreduce_ddd_ddd` collection created after each map/reduce operation, it's ok that these tmp collections are used to hold output of map/reduce operation.

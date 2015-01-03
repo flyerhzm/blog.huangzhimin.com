@@ -1,7 +1,7 @@
 ---
 layout: post
 title: multiple_mailers - send emails by different smtp accounts
-categories:
+tags:
 - rails
 - actionmailer
 ---

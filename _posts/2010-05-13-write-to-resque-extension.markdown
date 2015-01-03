@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为resque写扩展
-categories:
+tags:
 - rails
 - resque
 - ruby

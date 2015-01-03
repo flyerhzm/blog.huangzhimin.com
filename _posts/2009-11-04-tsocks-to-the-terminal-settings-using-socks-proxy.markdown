@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用tsocks给terminal设置socks代理
-categories:
+tags:
 - linux
 ---
 家里的rubygem一直不正常，一开始以为是环境配置有问题，昨天重装系统，发现原来是加了gemcutter的sources有问题。

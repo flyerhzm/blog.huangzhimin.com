@@ -1,7 +1,7 @@
 ---
 layout: post
 title: avoid committing git conflicts
-categories:
+tags:
 - git
 ---
 I made a mistake when merging branch last week, I forgot to remove a

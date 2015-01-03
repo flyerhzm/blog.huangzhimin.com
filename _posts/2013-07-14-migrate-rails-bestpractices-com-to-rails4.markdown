@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrate rails-bestpractices.com to rails4
-categories:
+tags:
 - rails
 ---
 

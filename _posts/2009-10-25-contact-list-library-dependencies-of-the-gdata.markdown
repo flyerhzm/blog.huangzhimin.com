@@ -1,7 +1,7 @@
 ---
 layout: post
 title: contact-list类库依赖包之gdata
-categories:
+tags:
 - contact-list
 - java
 ---

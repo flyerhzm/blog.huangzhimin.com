@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ActiveRecord Without Rails
-categories:
+tags:
 - ruby
 - activerecord
 - rails

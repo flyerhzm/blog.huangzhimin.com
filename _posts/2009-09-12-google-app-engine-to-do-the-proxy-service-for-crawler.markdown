@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在google app engine上做代理服务(for crawler)
-categories:
+tags:
 - java
 - gae
 - ruby

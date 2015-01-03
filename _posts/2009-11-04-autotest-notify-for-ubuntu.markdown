@@ -1,7 +1,7 @@
 ---
 layout: post
 title: autotest notify for Ubuntu
-categories:
+tags:
 - ruby
 - linux
 ---

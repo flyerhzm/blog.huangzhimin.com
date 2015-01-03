@@ -1,7 +1,7 @@
 ---
 layout: post
 title: javascript的trim方法
-categories:
+tags:
 - javascript
 ---
 javascript的String类是没有trim方法的，不过我们可以通过String的replace方法来模拟

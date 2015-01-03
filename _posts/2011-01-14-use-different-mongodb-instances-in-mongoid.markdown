@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Use different mongodb instances in mongoid
-categories:
+tags:
 - mongodb
 - mongoid
 ---

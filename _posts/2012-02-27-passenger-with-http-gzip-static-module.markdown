@@ -1,7 +1,7 @@
 ---
 layout: post
 title: passenger with http_gzip_static_module
-categories:
+tags:
 - rails
 - passenger
 ---

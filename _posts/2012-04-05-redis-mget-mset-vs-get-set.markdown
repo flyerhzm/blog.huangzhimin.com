@@ -1,7 +1,7 @@
 ---
 layout: post
 title: redis mget/mset vs get/set
-categories:
+tags:
 - ruby
 - redis
 ---

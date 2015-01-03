@@ -1,7 +1,7 @@
 ---
 layout: post
 title: capistrano读取releases目录的错误
-categories:
+tags:
 - ruby
 - capistrano
 ---

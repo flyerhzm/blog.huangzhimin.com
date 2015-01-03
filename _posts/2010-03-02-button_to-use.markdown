@@ -1,7 +1,7 @@
 ---
 layout: post
 title: button_to的使用
-categories:
+tags:
 - rails
 - css
 ---

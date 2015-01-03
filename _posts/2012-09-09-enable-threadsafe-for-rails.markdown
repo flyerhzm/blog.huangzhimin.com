@@ -1,7 +1,7 @@
 ---
 layout: post
 title: enable threadsafe for rails
-categories:
+tags:
 - jrubytips
 ---
 This is my new post on jrubytips. It tells what threadsafe is in rails,

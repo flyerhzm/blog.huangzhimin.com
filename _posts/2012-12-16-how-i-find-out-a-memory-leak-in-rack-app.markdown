@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I find out a memory leak in grape
-categories:
+tags:
 - ruby
 ---
 

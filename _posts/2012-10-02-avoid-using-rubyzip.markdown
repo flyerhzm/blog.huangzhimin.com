@@ -1,7 +1,7 @@
 ---
 layout: post
 title: avoid using rubyzip
-categories:
+tags:
 - ruby
 - performance
 ---

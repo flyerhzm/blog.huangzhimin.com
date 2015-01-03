@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rails and facebook connect
-categories:
+tags:
 - rails
 - facebook
 ---

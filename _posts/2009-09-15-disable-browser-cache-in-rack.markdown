@@ -1,7 +1,7 @@
 ---
 layout: post
 title: disable browser cache in rack
-categories:
+tags:
 - rails
 - rack
 - http

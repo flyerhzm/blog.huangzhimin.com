@@ -1,7 +1,7 @@
 ---
 layout: post
 title: contact-list类库依赖包之json
-categories:
+tags:
 - contact-list
 - java
 ---

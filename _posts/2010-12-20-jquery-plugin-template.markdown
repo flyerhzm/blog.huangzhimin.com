@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JQuery Plugin Template
-categories:
+tags:
 - jquery
 ---
 JQuery is one of the most important javascript framework I used, besides

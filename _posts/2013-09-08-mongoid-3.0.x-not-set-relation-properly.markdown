@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mongoid 3.0.x not set relation properly
-categories:
+tags:
 - ruby
 - mongoid
 ---

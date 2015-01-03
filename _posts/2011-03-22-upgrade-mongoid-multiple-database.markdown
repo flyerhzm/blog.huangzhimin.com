@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Mongoid - Multiple databases
-categories:
+tags:
 - mongoid
 - ruby
 ---

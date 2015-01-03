@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在github上发布gem
-categories:
+tags:
 - ruby
 - rubygems
 ---

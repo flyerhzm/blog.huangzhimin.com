@@ -1,7 +1,7 @@
 ---
 layout: post
 title: reset_counters in rails
-categories:
+tags:
 - rails
 ---
 I thought reset_counters method is to reset a counter_cache column to be

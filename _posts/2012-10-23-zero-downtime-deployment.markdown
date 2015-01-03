@@ -1,7 +1,7 @@
 ---
 layout: post
 title: zero downtime deployment
-categories:
+tags:
 - jrubytips
 ---
 This is my new post on jrubytips. It teaches you how to achieve zero

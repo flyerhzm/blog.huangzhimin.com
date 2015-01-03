@@ -1,7 +1,7 @@
 ---
 layout: post
 title: nginx上传进度条
-categories:
+tags:
 - nginx
 - rails
 ---

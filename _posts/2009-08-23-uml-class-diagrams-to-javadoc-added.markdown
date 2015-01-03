@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 给javadoc增加uml类图
-categories:
+tags:
 - maven
 - uml
 - java

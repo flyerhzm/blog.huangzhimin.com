@@ -1,7 +1,7 @@
 ---
 layout: post
 title: set proper value for CodeCache
-categories:
+tags:
 - jrubytips
 ---
 This is my new post on jrubytips. It tells you the jvm CodeCache which

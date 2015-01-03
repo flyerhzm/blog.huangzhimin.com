@@ -1,7 +1,7 @@
 ---
 layout: post
 title: javascript的StringBuffer类
-categories:
+tags:
 - javascript
 ---
 javacript的字符串拼接和java一样是很低效的，不同的是javascript的类库中并没有java中的StringBuffer或StringBuilder。不过我们还是可以通过数组来模拟StringBuffer类：

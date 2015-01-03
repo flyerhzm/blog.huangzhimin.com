@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 解决rubygems冲突的问题
-categories:
+tags:
 - ruby
 - hostmonster
 ---

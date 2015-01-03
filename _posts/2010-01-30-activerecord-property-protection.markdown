@@ -1,7 +1,7 @@
 ---
 layout: post
 title: activerecord属性保护
-categories:
+tags:
 - rails
 - activerecord
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ultrasphinx
-categories:
+tags:
 - rails plugins
 ---
 ultrasphinx是基于sphinx的rails全文搜索插件。我们将在一个已有的博客系统上增加全文搜索来学习这个插件，

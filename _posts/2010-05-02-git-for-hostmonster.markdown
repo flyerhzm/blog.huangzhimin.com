@@ -1,7 +1,7 @@
 ---
 layout: post
 title: git for hostmonster
-categories:
+tags:
 - git
 - capistrano
 - hostmonster

@@ -19,18 +19,8 @@
   </div>
   <div class="widget">
     <h3 class="title">Tags</h3>
-    <ul class="list-unstyled clearfix">
-      {% for category in site.categories} %}
-      <li class="pull-left"><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="widget">
-    <h3 class="title">Archives</h3>
-    <ul class="list-unstyled">
-      {% for monthly_archive in site.monthly_archives reversed %}
-      <li><a href="/{{ monthly_archive.url }}">{{ monthly_archive.name }} ({{ monthly_archive.posts | size }})</a></li>
-      {% endfor %}
-    </ul>
+    <div id="tag-cloud">
+      {{ site | tag_cloud }}
+    </div>
   </div>
 </div>

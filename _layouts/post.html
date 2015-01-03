@@ -7,8 +7,8 @@ layout: default
   <div class="content">{{ content }}</div>
   <p class="muted">
     Tags&nbsp;
-    {% for category in page.categories %}
-    <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag" class="btn btn-mini">{{ category }}</a>
+    {% for tag in page.tags %}
+    <a href="/tag/{{ tag }}" title="{{ tag }}" rel="tag" class="btn btn-mini">{{ tag }}</a>
     {% endfor %}
   </p>
 </div>

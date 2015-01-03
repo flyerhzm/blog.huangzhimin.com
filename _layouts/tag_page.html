@@ -1,13 +1,9 @@
 ---
 layout: default
 ---
-
-<h1 class="page-title">
-  Tag:&nbsp;
-  <a href="/categories/{{page.category}}">{{page.category}}</a>
-</h1>
+<h1 class="page-title">{{page.tag}}</h1>
 <ol class="archive">
-{% for post in site.categories[page.category] %}
+{% for post in page.posts %}
   <div class="post">
     <h2>
       <a class="title" href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
@@ -19,8 +15,8 @@ layout: default
     </div>
     <p class="muted">
       Tags&nbsp;
-      {% for category in post.categories %}
-      <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag" class="btn btn-mini">{{ category }}</a>
+      {% for tag in post.tags %}
+      <a href="/tag/{{ tag }}" title="{{ tag }}" rel="tag" class="btn btn-mini">{{ tag }}</a>
       {% endfor %}
     </p>
   </div>

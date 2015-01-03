@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newrelic-rake released
-categories:
+tags:
 - newrelic
 - rake
 ---

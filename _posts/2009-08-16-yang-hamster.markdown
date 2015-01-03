@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 养小仓鼠
-categories:
+tags:
 - life
 ---
 昨天买了两个小仓鼠，太可爱了。

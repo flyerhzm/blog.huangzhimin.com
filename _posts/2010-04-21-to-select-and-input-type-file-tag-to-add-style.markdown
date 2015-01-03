@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为select和input type=file标签添加样式
-categories:
+tags:
 - css
 - javascript
 - html

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 通过Capistrano部署Rails App到Hostmonster
-categories:
+tags:
 - capistrano
 - rails
 - hostmonster

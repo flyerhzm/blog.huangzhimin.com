@@ -1,7 +1,7 @@
 ---
 layout: post
 title: oauth for twitter
-categories:
+tags:
 - rubygems
 - twitter
 - ruby

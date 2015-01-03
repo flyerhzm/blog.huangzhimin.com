@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Mongoid - Hash arguments for group
-categories:
+tags:
 - mongoid
 - ruby
 ---

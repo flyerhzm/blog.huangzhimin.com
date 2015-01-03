@@ -1,7 +1,7 @@
 ---
 layout: post
 title: default_scope影响attribute的default值
-categories:
+tags:
 - rails
 - activerecord
 ---

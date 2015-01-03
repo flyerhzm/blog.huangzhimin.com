@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 通过数组转置来组织ActiveRecord的conditions
-categories:
+tags:
 - rails
 - activerecord
 ---

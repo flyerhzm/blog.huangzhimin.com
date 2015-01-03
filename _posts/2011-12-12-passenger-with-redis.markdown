@@ -1,7 +1,7 @@
 ---
 layout: post
 title: passenger with redis
-categories:
+tags:
 - passenger
 - redis
 ---

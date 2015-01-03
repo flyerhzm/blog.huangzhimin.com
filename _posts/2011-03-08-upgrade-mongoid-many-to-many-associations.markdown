@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Mongoid - Many to many association
-categories:
+tags:
 - mongoid
 - ruby
 ---

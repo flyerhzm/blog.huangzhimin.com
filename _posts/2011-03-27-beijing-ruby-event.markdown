@@ -1,7 +1,7 @@
 ---
 layout: post
 title: beijing ruby线下活动
-categories:
+tags:
 - presentation
 ---
 周日在北京的ruby线下活动的ppt

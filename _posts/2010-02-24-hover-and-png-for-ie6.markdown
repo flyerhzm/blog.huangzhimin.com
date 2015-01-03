@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hover and png for ie6
-categories:
+tags:
 - css
 ---
 IE6可以说是前端设计师们的最大梦魇，不支持圆角，margin double等等问题，使得书写css的时候不得不专门针对IE6浏览器增加额外的规则。

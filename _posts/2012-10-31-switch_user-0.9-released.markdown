@@ -1,7 +1,7 @@
 ---
 layout: post
 title: switch_user 0.9 released
-categories:
+tags:
 - rubygems
 - switch_user
 ---

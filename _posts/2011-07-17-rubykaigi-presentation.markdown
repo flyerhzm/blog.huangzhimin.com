@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rubykaigi presentation
-categories:
+tags:
 - presentation
 - ruby
 - rails

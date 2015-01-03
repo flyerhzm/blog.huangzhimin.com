@@ -1,7 +1,7 @@
 ---
 layout: post
 title: flex的RSL编译方式
-categories:
+tags:
 - flex
 ---
 flex编译出来swf文件往往很大，尤其有了图形界面，要想少于100K几乎是不可能的，但是在网页上加载这么大的flash又是很耗时的。

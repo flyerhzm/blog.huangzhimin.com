@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flex自动调整swf的宽度和高度
-categories:
+tags:
 - flex
 ---
 Flex应用的宽度和高度可以通过mx:Applicaton的width和height来调整，但是用FB创建的html调用是写死了宽度和高度，如：

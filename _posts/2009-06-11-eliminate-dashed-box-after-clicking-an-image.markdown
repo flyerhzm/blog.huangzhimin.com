@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Css消除Image点击后的虚线框
-categories:
+tags:
 - css
 ---
 网上很多文章关于这个问题都是说使用

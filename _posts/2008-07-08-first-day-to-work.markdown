@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第一天上班
-categories:
+tags:
 - life
 ---
 7月7日第一天去欧酷报道。

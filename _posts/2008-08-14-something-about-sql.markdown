@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sql杂谈
-categories:
+tags:
 - sql
 ---
 在学校里学SQL，也实际操作过，觉得还是掌握的不错的。这两天在公司一用，缺点就暴露了。

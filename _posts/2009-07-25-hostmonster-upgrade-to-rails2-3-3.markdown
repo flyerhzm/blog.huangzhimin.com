@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hostmonster升级到Rails2.3.3
-categories:
+tags:
 - hostmonster
 - rails
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: php判断utf-8字符是否是中文？
-categories:
+tags:
 - php
 ---
 使用正则表达式，比如下面判断$username是否完全是中文：

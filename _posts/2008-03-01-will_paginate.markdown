@@ -1,7 +1,7 @@
 ---
 layout: post
 title: will_paginate
-categories:
+tags:
 - rails plugins
 ---
 will_paginate为Rails提供了非常方便的分页浏览功能。我们将通过一个小例子来展示：

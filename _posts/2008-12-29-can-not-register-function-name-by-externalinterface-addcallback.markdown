@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在IE下flex的ExternalInterface.addCallback不可注册的函数名
-categories:
+tags:
 - flex
 ---
 应该是IE下的保留字，一旦注册了这些函数名，IE会报脚本错误，这些函数名包括：

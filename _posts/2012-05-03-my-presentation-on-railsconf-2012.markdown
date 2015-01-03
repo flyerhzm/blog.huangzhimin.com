@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my presentation on railsconf 2012
-categories:
+tags:
 - presentation
 - rails
 ---

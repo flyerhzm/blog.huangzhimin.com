@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Mongoid - Write Tests First
-categories:
+tags:
 - mongoid
 - ruby
 ---

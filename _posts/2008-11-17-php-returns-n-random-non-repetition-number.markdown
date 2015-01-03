@@ -1,7 +1,7 @@
 ---
 layout: post
 title: php返回N个不重复的随机数
-categories:
+tags:
 - php
 ---
 应用场景：需要从数据库中随机查询多条数据，mysql反对使用order by rand()，因为效率太差。也看到通过子查询来模拟的，不过还是麻烦。最简单的方法，就是读取数据表中的max(id)，然后在程序中生成N个随机数，然后应用where id in (?)来获取数据。

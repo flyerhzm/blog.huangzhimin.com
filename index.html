@@ -14,8 +14,8 @@ title: Richard Huang's Blog
     </div>
     <p class="muted">
       Tags&nbsp;
-      {% for category in post.categories %}
-      <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag" class="btn btn-mini">{{ category }}</a>
+      {% for tag in post.tags %}
+      <a href="/tag/{{ tag }}" title="{{ tag }}" rel="tag" class="btn btn-mini">{{ tag }}</a>
       {% endfor %}
     </p>
   </div>

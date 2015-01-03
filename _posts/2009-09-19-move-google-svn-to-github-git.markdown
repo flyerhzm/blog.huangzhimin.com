@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Move google svn to github git
-categories:
+tags:
 - git
 - contact-list
 ---

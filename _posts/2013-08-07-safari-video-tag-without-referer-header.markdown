@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safari video tag without referer header
-categories:
+tags:
 - html5
 - s3
 ---

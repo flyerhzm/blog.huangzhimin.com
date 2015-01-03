@@ -1,7 +1,7 @@
 ---
 layout: post
 title: counter_cache的migration
-categories:
+tags:
 - rails
 ---
 counter_cache在提升查询性能上带来了很大的帮助，在rails中用起来也是非常的方便，增加一个xxx_count在数据表中，在belongs_to的声明后增加:counter_cache => true。

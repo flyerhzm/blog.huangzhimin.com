@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newrelic-grape released
-categories:
+tags:
 - newrelic
 - grape
 ---

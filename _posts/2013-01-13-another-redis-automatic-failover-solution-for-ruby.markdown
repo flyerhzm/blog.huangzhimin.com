@@ -1,7 +1,7 @@
 ---
 layout: post
 title: another redis automatic failover solution for ruby
-categories:
+tags:
 - ruby
 - redis
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: require某个版本的gem
-categories:
+tags:
 - ruby
 - rubygems
 ---

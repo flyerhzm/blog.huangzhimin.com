@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JRuby at OpenFeint - a JRuby migration success story
-categories:
+tags:
 - jruby
 ---
 

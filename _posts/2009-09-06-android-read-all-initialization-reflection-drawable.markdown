@@ -1,7 +1,7 @@
 ---
 layout: post
 title: android初始化时反射读取所有的drawable
-categories:
+tags:
 - java
 - android
 ---

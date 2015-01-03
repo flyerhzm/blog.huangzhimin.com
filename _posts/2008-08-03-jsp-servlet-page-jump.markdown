@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jsp/Servlet页面跳转
-categories:
+tags:
 - java web
 ---
 Jsp/Servlet页面跳转有两种，一种是Redirect（页面重定向），另一种是Forward（页面转发）。

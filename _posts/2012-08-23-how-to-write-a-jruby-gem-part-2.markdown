@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to write a jruby gem - part 2
-categories:
+tags:
 - jruby
 - rubygems
 ---

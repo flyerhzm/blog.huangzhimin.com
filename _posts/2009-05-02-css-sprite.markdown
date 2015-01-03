@@ -1,7 +1,7 @@
 ---
 layout: post
 title: css sprite
-categories:
+tags:
 - css
 ---
 前文提到通过压缩合并js和css来减少HTTP请求，同样的，也可以通过合并image来减少HTTP请求。

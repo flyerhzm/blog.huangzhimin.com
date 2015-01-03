@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用RubyParser检查Ruby代码的variable scope
-categories:
+tags:
 - ruby
 ---
 今天参加rubyconfchina，再次聆听ihower的演讲，再次收益匪浅。

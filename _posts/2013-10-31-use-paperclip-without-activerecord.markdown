@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Use paperclip without activerecord
-categories:
+tags:
 - ruby
 - paperclip
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my railsconf 2012 video
-categories:
+tags:
 - rails
 ---
 

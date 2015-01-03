@@ -1,7 +1,7 @@
 ---
 layout: post
 title: css sprite最佳实践
-categories:
+tags:
 - rails
 - rubygems
 - css

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ActiveRecord destroy之后的事情
-categories:
+tags:
 - rails
 - activerecord
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Mongoid - update_attribute
-categories:
+tags:
 - mongoid
 - ruby
 ---

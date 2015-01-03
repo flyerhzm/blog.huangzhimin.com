@@ -1,7 +1,7 @@
 ---
 layout: post
 title: add gem rake for rails
-categories:
+tags:
 - rails
 - rubygems
 ---

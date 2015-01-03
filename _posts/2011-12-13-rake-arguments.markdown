@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rake arguments
-categories:
+tags:
 - rake
 ---
 Long ago I began to write some rake tasks, it's simple but doesn't have

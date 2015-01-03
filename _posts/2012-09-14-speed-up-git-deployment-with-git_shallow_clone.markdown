@@ -1,7 +1,7 @@
 ---
 layout: post
 title: speed up git deployment with depth 1
-categories:
+tags:
 - capistrano
 ---
 By default, when you deploy your application by capistrano git, it will

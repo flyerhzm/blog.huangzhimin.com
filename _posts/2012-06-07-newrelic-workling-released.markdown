@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newrelic-workling released
-categories:
+tags:
 - newrelic
 - workling
 ---

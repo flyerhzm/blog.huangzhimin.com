@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 导入联系人列表的类库
-categories:
+tags:
 - contact-list
 ---
 上个月在google code上发布了一个导入联系人列表的类库，[http://code.google.com/p/contact-list][1]，获取用户的msn和邮箱联系人列表，支持的邮箱包括hotmail, gmail, yahoo, sohu, sina, 163, 126, tom和yeah。算是之前一段时间的小成果吧。

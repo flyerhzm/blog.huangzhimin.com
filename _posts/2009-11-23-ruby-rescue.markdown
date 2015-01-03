@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ruby rescue
-categories:
+tags:
 - ruby
 ---
 ruby的异常处理和java很相似

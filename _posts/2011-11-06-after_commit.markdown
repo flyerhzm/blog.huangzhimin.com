@@ -1,7 +1,7 @@
 ---
 layout: post
 title: after_commit
-categories:
+tags:
 - rails
 ---
 We are using RabbitMQ as our message queue system, ruby client is

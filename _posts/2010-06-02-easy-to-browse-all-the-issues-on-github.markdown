@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 方便地浏览github上所有的issues
-categories:
+tags:
 - github
 - sinatra
 ---

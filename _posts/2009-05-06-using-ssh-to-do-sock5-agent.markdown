@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用SSH做sock5代理
-categories:
+tags:
 - linux
 ---
 在伟大的GFW之下，我的itunes再也无法订阅feedburner上的podcasts了，真的很无奈。

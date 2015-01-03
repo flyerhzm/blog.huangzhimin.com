@@ -1,7 +1,7 @@
 ---
 layout: post
 title: auto_complete
-categories:
+tags:
 - rails plugins
 ---
 atuo_complete插件提供输入提示功能，我们通过一个example来示范，用户在输入日志的tag时，有自动输入提供。

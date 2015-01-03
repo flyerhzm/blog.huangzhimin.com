@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to render, upload and download large files on heroku with s3
-categories:
+tags:
 - rails
 - heroku
 - s3

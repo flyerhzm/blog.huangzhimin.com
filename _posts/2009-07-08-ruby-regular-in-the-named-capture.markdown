@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ruby正则的named capture
-categories:
+tags:
 - ruby
 ---
 之前用python re的时候，特别喜欢用named capture，主要是可读性好太多了，一个正则表达式写出来都不用再加注释了。

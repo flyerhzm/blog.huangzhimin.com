@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 追踪图片在外部系统的查看次数
-categories:
+tags:
 - rails
 - facebook
 - nginx

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My presentation at reddotrubyconf 2013
-categories:
+tags:
 - presentation
 - ruby
 ---
